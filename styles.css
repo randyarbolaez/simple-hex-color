@@ -1,0 +1,10 @@
+body {
+  height: 85vh;
+  width: 85vw;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 8rem;
+}
